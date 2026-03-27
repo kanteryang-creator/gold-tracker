@@ -1,0 +1,6 @@
+streamlit
+gspread
+google-generativeai
+yfinance
+Pillow
+google-auth
